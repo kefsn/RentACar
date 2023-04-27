@@ -1,0 +1,1 @@
+harika, bazı kodlar yazdım
