@@ -1,0 +1,3 @@
+gizli.txt
+.idea/
+gereksiz.txt
